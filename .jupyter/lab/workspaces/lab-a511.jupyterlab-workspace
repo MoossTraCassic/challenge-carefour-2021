@@ -1,0 +1,33 @@
+{
+ "data": {
+  "layout-restorer:data": {
+   "main":{
+    "dock":{
+     "type": "tab-area",
+     "currentIndex": 1,
+     "widgets": ["markdownviewer-widget:00-Start_Here.md"]
+    },
+    "mode": "multiple-document",
+    "current": "markdownviewer-widget:00-Start_Here.md"
+   },
+   "left": {
+    "collapsed": false,
+    "current": "filebrowser",
+    "widgets": ["filebrowser","running-sessions","git-sessions","command-palette","tab-manager"]
+   },
+   "right": {
+    "collapsed": true,
+    "widgets":[]
+   }
+  },
+  "markdownviewer-widget:00-Start_Here.md": {
+   "data": {
+    "path":"00-Start_Here.md",
+    "factory":"Markdown Preview"
+   }
+  }
+ },
+ "metadata": {
+  "id":"/lab"
+ }
+}
